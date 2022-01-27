@@ -425,7 +425,6 @@ this.wordle.bundle = function(e) {
             <div class="setting">\n        <div class="text">\n          <div class="title">Fancy Font Mode</div>\n          <div class="description">For the full choral experience</div>\n        </div>\n        <div class="control">\n          <game-switch id="fancy-font" name="fancy-font"></game-switch>\n        </div>\n      </div>\n    \
         </section>\n\n    \
         <section><div class="setting">\n        <div class="text">\n          <div class="title">Didn\'t get the word?</div>\n        <div class="description">Find out about past BYRDLEs</div>\n        </div>\n        <div class="control">\n          \n          \n          <a href="https://twitter.com/rbrignall/status/1483940627335233545" target="blank">Twitter thread</a>\n        </div>\n      </div>\n    </section>\n        \
-        <section>\n      <div class="setting">\n        <div class="text">\n          <div class="title">Feedback</div>\n        </div>\n        <div class="control">\n          \n          \n          <a href="https://twitter.com/intent/tweet?screen_name=rbrignall" target="blank" title="@rbrignall">Twitter</a>\n        </div>\n      </div>\n    </section>\n\
         <section>\n\
             <div class="setting" style="border: 0px;">\n        <div class="text">\n          <div class="title">Credits</div>\n     </div></div>\
             <div class="setting" style="border: 0px;">\n        <div class="text">\n          Codebase and copyright: Josh Wardle\n        </div>\n    \
