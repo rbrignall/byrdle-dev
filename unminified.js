@@ -473,7 +473,7 @@ this.wordle.bundle = function(e) {
     customElements.define("game-toast",Aa),window.dataLayer=window.dataLayer||[],Ca("js",new Date);
     var La=["choir","motet","chant","credo","zadok","organ","triad","darke","tenor","stave",
             "clerk","minim","dyson","clefs","carol","finzi","sixth","breve","agnus","tempo",
-            "neume","slurs","solos","notes","glory","fifth","jesus","verdi","noble","altar",
+            "neume","slurs","solos","notes","glory","fifth","sicut","verdi","noble","altar",
             "kyrie","elgar","major","vicar","altos","largo","drone","quire","haydn","minor",
             "scale","forte","sharp","parry","dixit","psalm","flats","modus","tutti","mundy",
             "verse","holst","tonic","piano","hymns","trill","segue","music","lotti","onset",
